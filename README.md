@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-goette
-- 👀 I’m interested in Web, JS, PHP, Laravel and much more...
+- 👀 I’m interested in Web, JS, PHP, Laravel, Python and much more...
 - 📫 anfrage@jannik-goette.de
 
 <!---
